@@ -1,0 +1,610 @@
+[
+ {
+  "code": "WKJ",
+  "name": "稚内空港",
+  "pref": "北海道",
+  "dest": true,
+  "lat": 45.4042,
+  "lng": 141.801
+ },
+ {
+  "code": "RIS",
+  "name": "利尻空港",
+  "pref": "北海道",
+  "dest": true,
+  "lat": 45.242,
+  "lng": 141.186
+ },
+ {
+  "code": "MBE",
+  "name": "紋別空港",
+  "pref": "北海道",
+  "dest": true,
+  "lat": 44.3039,
+  "lng": 143.404
+ },
+ {
+  "code": "MMB",
+  "name": "女満別空港",
+  "pref": "北海道",
+  "dest": true,
+  "lat": 43.8806,
+  "lng": 144.164
+ },
+ {
+  "code": "AKJ",
+  "name": "旭川空港",
+  "pref": "北海道",
+  "dest": true,
+  "lat": 43.6708,
+  "lng": 142.447
+ },
+ {
+  "code": "SHB",
+  "name": "中標津空港",
+  "pref": "北海道",
+  "dest": true,
+  "lat": 43.5775,
+  "lng": 144.96
+ },
+ {
+  "code": "OKD",
+  "name": "札幌丘珠空港",
+  "pref": "北海道",
+  "dest": false,
+  "lat": 43.1174,
+  "lng": 141.3813
+ },
+ {
+  "code": "KUH",
+  "name": "釧路空港",
+  "pref": "北海道",
+  "dest": true,
+  "lat": 43.041,
+  "lng": 144.193
+ },
+ {
+  "code": "CTS",
+  "name": "新千歳空港",
+  "pref": "北海道",
+  "dest": true,
+  "lat": 42.7748,
+  "lng": 141.6904
+ },
+ {
+  "code": "OBO",
+  "name": "帯広空港",
+  "pref": "北海道",
+  "dest": true,
+  "lat": 42.7333,
+  "lng": 143.217
+ },
+ {
+  "code": "OIR",
+  "name": "奥尻空港",
+  "pref": "北海道",
+  "dest": true,
+  "lat": 42.0717,
+  "lng": 139.433
+ },
+ {
+  "code": "HKD",
+  "name": "函館空港",
+  "pref": "北海道",
+  "dest": true,
+  "lat": 41.77,
+  "lng": 140.822
+ },
+ {
+  "code": "AOJ",
+  "name": "青森空港",
+  "pref": "青森県",
+  "dest": true,
+  "lat": 40.7338,
+  "lng": 140.6895
+ },
+ {
+  "code": "MSJ",
+  "name": "三沢空港",
+  "pref": "青森県",
+  "dest": true,
+  "lat": 40.7032,
+  "lng": 141.368
+ },
+ {
+  "code": "HNA",
+  "name": "いわて花巻空港",
+  "pref": "岩手県",
+  "dest": true,
+  "lat": 39.4286,
+  "lng": 141.135
+ },
+ {
+  "code": "SDJ",
+  "name": "仙台空港",
+  "pref": "宮城県",
+  "dest": true,
+  "lat": 38.1397,
+  "lng": 140.917
+ },
+ {
+  "code": "ONJ",
+  "name": "大館能代空港",
+  "pref": "秋田県",
+  "dest": true,
+  "lat": 40.1919,
+  "lng": 140.371
+ },
+ {
+  "code": "AXT",
+  "name": "秋田空港",
+  "pref": "秋田県",
+  "dest": true,
+  "lat": 39.6156,
+  "lng": 140.219
+ },
+ {
+  "code": "SYO",
+  "name": "庄内空港",
+  "pref": "山形県",
+  "dest": true,
+  "lat": 38.8122,
+  "lng": 139.787
+ },
+ {
+  "code": "GAJ",
+  "name": "山形空港",
+  "pref": "山形県",
+  "dest": true,
+  "lat": 38.4119,
+  "lng": 140.371
+ },
+ {
+  "code": "FKS",
+  "name": "福島空港",
+  "pref": "福島県",
+  "dest": true,
+  "lat": 37.2274,
+  "lng": 140.431
+ },
+ {
+  "code": "IBR",
+  "name": "茨城空港",
+  "pref": "茨城県",
+  "dest": true,
+  "lat": 36.1815,
+  "lng": 140.4144
+ },
+ {
+  "code": "NRT",
+  "name": "成田空港",
+  "pref": "千葉県",
+  "dest": true,
+  "lat": 35.7686,
+  "lng": 140.3887
+ },
+ {
+  "code": "HND",
+  "name": "羽田空港",
+  "pref": "東京都",
+  "dest": true,
+  "lat": 35.5497,
+  "lng": 139.787
+ },
+ {
+  "code": "OIM",
+  "name": "大島空港",
+  "pref": "東京都",
+  "dest": false,
+  "lat": 34.782,
+  "lng": 139.36
+ },
+ {
+  "code": "MYE",
+  "name": "三宅島空港",
+  "pref": "東京都",
+  "dest": false,
+  "lat": 34.0736,
+  "lng": 139.56
+ },
+ {
+  "code": "HAC",
+  "name": "八丈島空港",
+  "pref": "東京都",
+  "dest": false,
+  "lat": 33.1148,
+  "lng": 139.7856
+ },
+ {
+  "code": "KIJ",
+  "name": "新潟空港",
+  "pref": "新潟県",
+  "dest": true,
+  "lat": 37.9542,
+  "lng": 139.1122
+ },
+ {
+  "code": "TOY",
+  "name": "富山空港",
+  "pref": "富山県",
+  "dest": true,
+  "lat": 36.6484,
+  "lng": 137.1874
+ },
+ {
+  "code": "NTQ",
+  "name": "能登空港",
+  "pref": "石川県",
+  "dest": true,
+  "lat": 37.2931,
+  "lng": 136.962
+ },
+ {
+  "code": "KMQ",
+  "name": "小松空港",
+  "pref": "石川県",
+  "dest": true,
+  "lat": 36.3934,
+  "lng": 136.4069
+ },
+ {
+  "code": "MMJ",
+  "name": "信州まつもと空港",
+  "pref": "長野県",
+  "dest": true,
+  "lat": 36.1668,
+  "lng": 137.923
+ },
+ {
+  "code": "FSZ",
+  "name": "富士山静岡空港",
+  "pref": "静岡県",
+  "dest": true,
+  "lat": 34.795,
+  "lng": 138.191
+ },
+ {
+  "code": "NKM",
+  "name": "県営名古屋空港",
+  "pref": "愛知県",
+  "dest": false,
+  "lat": 35.2558,
+  "lng": 136.9241
+ },
+ {
+  "code": "NGO",
+  "name": "中部国際空港",
+  "pref": "愛知県",
+  "dest": true,
+  "lat": 34.8584,
+  "lng": 136.805
+ },
+ {
+  "code": "ITM",
+  "name": "伊丹空港",
+  "pref": "大阪府",
+  "dest": true,
+  "lat": 34.7809,
+  "lng": 135.4408
+ },
+ {
+  "code": "KIX",
+  "name": "関西国際空港",
+  "pref": "大阪府",
+  "dest": true,
+  "lat": 34.4273,
+  "lng": 135.244
+ },
+ {
+  "code": "TJH",
+  "name": "但馬空港",
+  "pref": "兵庫県",
+  "dest": true,
+  "lat": 35.5128,
+  "lng": 134.787
+ },
+ {
+  "code": "UKB",
+  "name": "神戸空港",
+  "pref": "兵庫県",
+  "dest": true,
+  "lat": 34.6328,
+  "lng": 135.224
+ },
+ {
+  "code": "SHM",
+  "name": "南紀白浜空港",
+  "pref": "和歌山県",
+  "dest": true,
+  "lat": 33.6622,
+  "lng": 135.364
+ },
+ {
+  "code": "TTJ",
+  "name": "鳥取空港",
+  "pref": "鳥取県",
+  "dest": true,
+  "lat": 35.5301,
+  "lng": 134.165
+ },
+ {
+  "code": "YGJ",
+  "name": "米子空港",
+  "pref": "鳥取県",
+  "dest": true,
+  "lat": 35.4922,
+  "lng": 133.236
+ },
+ {
+  "code": "OKI",
+  "name": "隠岐空港",
+  "pref": "島根県",
+  "dest": true,
+  "lat": 36.1784,
+  "lng": 133.3236
+ },
+ {
+  "code": "IZO",
+  "name": "出雲空港",
+  "pref": "島根県",
+  "dest": true,
+  "lat": 35.4136,
+  "lng": 132.89
+ },
+ {
+  "code": "IWJ",
+  "name": "萩・石見空港",
+  "pref": "島根県",
+  "dest": true,
+  "lat": 34.6764,
+  "lng": 131.79
+ },
+ {
+  "code": "OKJ",
+  "name": "岡山空港",
+  "pref": "岡山県",
+  "dest": true,
+  "lat": 34.7569,
+  "lng": 133.855
+ },
+ {
+  "code": "HIJ",
+  "name": "広島空港",
+  "pref": "広島県",
+  "dest": true,
+  "lat": 34.4361,
+  "lng": 132.919
+ },
+ {
+  "code": "IWK",
+  "name": "岩国空港",
+  "pref": "山口県",
+  "dest": true,
+  "lat": 34.1463,
+  "lng": 132.2472
+ },
+ {
+  "code": "UBJ",
+  "name": "山口宇部空港",
+  "pref": "山口県",
+  "dest": true,
+  "lat": 33.93,
+  "lng": 131.279
+ },
+ {
+  "code": "TKS",
+  "name": "徳島空港",
+  "pref": "徳島県",
+  "dest": true,
+  "lat": 34.1326,
+  "lng": 134.6078
+ },
+ {
+  "code": "TAK",
+  "name": "高松空港",
+  "pref": "香川県",
+  "dest": true,
+  "lat": 34.215,
+  "lng": 134.0155
+ },
+ {
+  "code": "MYJ",
+  "name": "松山空港",
+  "pref": "愛媛県",
+  "dest": true,
+  "lat": 33.8269,
+  "lng": 132.7001
+ },
+ {
+  "code": "KCZ",
+  "name": "高知空港",
+  "pref": "高知県",
+  "dest": true,
+  "lat": 33.5452,
+  "lng": 133.6702
+ },
+ {
+  "code": "KKJ",
+  "name": "北九州空港",
+  "pref": "福岡県",
+  "dest": true,
+  "lat": 33.8459,
+  "lng": 131.035
+ },
+ {
+  "code": "FUK",
+  "name": "福岡空港",
+  "pref": "福岡県",
+  "dest": true,
+  "lat": 33.5859,
+  "lng": 130.451
+ },
+ {
+  "code": "HSG",
+  "name": "佐賀空港",
+  "pref": "佐賀県",
+  "dest": true,
+  "lat": 33.1497,
+  "lng": 130.302
+ },
+ {
+  "code": "TSJ",
+  "name": "対馬空港",
+  "pref": "長崎県",
+  "dest": false,
+  "lat": 34.2849,
+  "lng": 129.331
+ },
+ {
+  "code": "IKI",
+  "name": "壱岐空港",
+  "pref": "長崎県",
+  "dest": false,
+  "lat": 33.749,
+  "lng": 129.785
+ },
+ {
+  "code": "NGS",
+  "name": "長崎空港",
+  "pref": "長崎県",
+  "dest": true,
+  "lat": 32.9169,
+  "lng": 129.914
+ },
+ {
+  "code": "FUJ",
+  "name": "五島福江空港",
+  "pref": "長崎県",
+  "dest": false,
+  "lat": 32.6663,
+  "lng": 128.833
+ },
+ {
+  "code": "KMJ",
+  "name": "熊本空港",
+  "pref": "熊本県",
+  "dest": true,
+  "lat": 32.8373,
+  "lng": 130.855
+ },
+ {
+  "code": "AXJ",
+  "name": "天草空港",
+  "pref": "熊本県",
+  "dest": true,
+  "lat": 32.4825,
+  "lng": 130.159
+ },
+ {
+  "code": "OIT",
+  "name": "大分空港",
+  "pref": "大分県",
+  "dest": true,
+  "lat": 33.4794,
+  "lng": 131.737
+ },
+ {
+  "code": "KMI",
+  "name": "宮崎空港",
+  "pref": "宮崎県",
+  "dest": true,
+  "lat": 31.8772,
+  "lng": 131.449
+ },
+ {
+  "code": "KOJ",
+  "name": "鹿児島空港",
+  "pref": "鹿児島県",
+  "dest": true,
+  "lat": 31.8034,
+  "lng": 130.719
+ },
+ {
+  "code": "TNE",
+  "name": "種子島空港",
+  "pref": "鹿児島県",
+  "dest": true,
+  "lat": 30.6051,
+  "lng": 130.991
+ },
+ {
+  "code": "KUM",
+  "name": "屋久島空港",
+  "pref": "鹿児島県",
+  "dest": true,
+  "lat": 30.3856,
+  "lng": 130.659
+ },
+ {
+  "code": "ASJ",
+  "name": "奄美空港",
+  "pref": "鹿児島県",
+  "dest": true,
+  "lat": 28.4306,
+  "lng": 129.713
+ },
+ {
+  "code": "KKX",
+  "name": "喜界空港",
+  "pref": "鹿児島県",
+  "dest": true,
+  "lat": 28.3213,
+  "lng": 129.928
+ },
+ {
+  "code": "TKN",
+  "name": "徳之島空港",
+  "pref": "鹿児島県",
+  "dest": true,
+  "lat": 27.8364,
+  "lng": 128.8814
+ },
+ {
+  "code": "OKE",
+  "name": "沖永良部空港",
+  "pref": "鹿児島県",
+  "dest": true,
+  "lat": 27.4316,
+  "lng": 128.7056
+ },
+ {
+  "code": "RNJ",
+  "name": "与論空港",
+  "pref": "鹿児島県",
+  "dest": false,
+  "lat": 27.0438,
+  "lng": 128.4016
+ },
+ {
+  "code": "UEO",
+  "name": "久米島空港",
+  "pref": "沖縄県",
+  "dest": true,
+  "lat": 26.3634,
+  "lng": 126.7138
+ },
+ {
+  "code": "OKA",
+  "name": "那覇空港",
+  "pref": "沖縄県",
+  "dest": true,
+  "lat": 26.1924,
+  "lng": 127.6398
+ },
+ {
+  "code": "MMY",
+  "name": "宮古空港",
+  "pref": "沖縄県",
+  "dest": false,
+  "lat": 24.7828,
+  "lng": 125.295
+ },
+ {
+  "code": "ISG",
+  "name": "石垣空港",
+  "pref": "沖縄県",
+  "dest": false,
+  "lat": 24.3964,
+  "lng": 124.245
+ }
+]

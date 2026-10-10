@@ -1,0 +1,1703 @@
+{
+ "89553f85-6e46-40f6-8975-8a3241f8ce5c": {
+  "name": "北海道小樽水産高等学校",
+  "lat": 43.1767,
+  "lng": 141.0235,
+  "airport": "CTS",
+  "airportKm": 70.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "aeee2145-60fc-4bd7-88a3-63a53262b74c": {
+  "name": "北海道常呂高等学校",
+  "lat": 44.1204,
+  "lng": 144.0734,
+  "airport": "MMB",
+  "airportKm": 27.6,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "dcdb4426-ef16-423f-a7ab-2cd36ea00dcf": {
+  "name": "北海道夕張高等学校",
+  "lat": 43.0567,
+  "lng": 141.9739,
+  "airport": "CTS",
+  "airportKm": 38.9,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "4a31fb0c-3c8d-4885-b44d-2624802b616d": {
+  "name": "北海道函館水産高等学校",
+  "lat": 41.8124,
+  "lng": 140.7076,
+  "airport": "HKD",
+  "airportKm": 10.6,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "9a3b4bb4-17dc-4a7e-a7d2-deb047484fd4": {
+  "name": "北海道大野農業高等学校",
+  "lat": 41.8959,
+  "lng": 140.6052,
+  "airport": "HKD",
+  "airportKm": 22.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "7827ad74-80f3-413e-ad09-a4527e2f74fd": {
+  "name": "北海道松前高等学校",
+  "lat": 41.432,
+  "lng": 140.0766,
+  "airport": "HKD",
+  "airportKm": 72.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "55cd4d60-5e1f-465c-a116-744fb27bd510": {
+  "name": "北海道福島商業高等学校",
+  "lat": 41.5083,
+  "lng": 140.2535,
+  "airport": "HKD",
+  "airportKm": 55.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "2b1c7b4d-b9c4-45e5-a92d-e92029ebbf0b": {
+  "name": "北海道知内高等学校",
+  "lat": 41.6146,
+  "lng": 140.3833,
+  "airport": "HKD",
+  "airportKm": 40.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "dba4cc5e-ef4c-45ff-adb5-88ab4d6e57e1": {
+  "name": "北海道上ノ国高等学校",
+  "lat": 41.8028,
+  "lng": 140.1226,
+  "airport": "HKD",
+  "airportKm": 58.1,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "1be4844e-55d8-4eb3-8c71-b5ee84742e24": {
+  "name": "北海道奥尻高等学校",
+  "lat": 42.1296,
+  "lng": 139.4953,
+  "airport": "OIR",
+  "airportKm": 8.2,
+  "ferry": true,
+  "planeFerry": false
+ },
+ "68f6bf63-4ec3-4964-9099-44585dd5df73": {
+  "name": "ニセコ国際高等学校",
+  "lat": 42.8048,
+  "lng": 140.6956,
+  "airport": "CTS",
+  "airportKm": 81.2,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "231371a4-c97b-44be-8793-3263b0f46fca": {
+  "name": "北海道栗山高等学校",
+  "lat": 43.0477,
+  "lng": 141.794,
+  "airport": "CTS",
+  "airportKm": 31.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "051cf075-3473-4b8e-877b-32420c848fa1": {
+  "name": "北海道月形高等学校",
+  "lat": 43.3383,
+  "lng": 141.6695,
+  "airport": "CTS",
+  "airportKm": 62.7,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "5136c8b4-438f-41a1-ab46-aeb2b7563b93": {
+  "name": "北海道上川高等学校",
+  "lat": 43.8484,
+  "lng": 142.7834,
+  "airport": "AKJ",
+  "airportKm": 33.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "0d9771e3-e2cd-4f1b-b79c-bce453d037c3": {
+  "name": "北海道剣淵高等学校",
+  "lat": 44.0988,
+  "lng": 142.3625,
+  "airport": "AKJ",
+  "airportKm": 48.1,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "20fa0165-b77e-4152-9fa4-4df43308d7d9": {
+  "name": "北海道おといねっぷ美術工芸高等学校",
+  "lat": 44.7293,
+  "lng": 142.2603,
+  "airport": "WKJ",
+  "airportKm": 83.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "a6359e34-4a6a-4cdf-a25d-3067139f247c": {
+  "name": "北海道幌加内高等学校",
+  "lat": 43.9931,
+  "lng": 142.1481,
+  "airport": "AKJ",
+  "airportKm": 43.1,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "a044eebd-3fac-40c8-b0d1-418c174f6dd9": {
+  "name": "北海道苫前商業高等学校",
+  "lat": 44.267,
+  "lng": 141.7192,
+  "airport": "AKJ",
+  "airportKm": 88.2,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "f24bc7fb-16dd-407d-aa58-235fc937ade8": {
+  "name": "北海道礼文高等学校",
+  "lat": 45.3916,
+  "lng": 141.0016,
+  "airport": "WKJ",
+  "airportKm": 62.4,
+  "ferry": true,
+  "planeFerry": true
+ },
+ "c6814d24-de5f-4967-bdac-2ad6d9ab6cc1": {
+  "name": "北海道斜里高等学校",
+  "lat": 43.9088,
+  "lng": 144.6601,
+  "airport": "MMB",
+  "airportKm": 39.9,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "7f9ea98b-89b9-4721-8338-b4d0427571c5": {
+  "name": "北海道置戸高等学校",
+  "lat": 43.6805,
+  "lng": 143.6041,
+  "airport": "MMB",
+  "airportKm": 50.2,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "5a3d700b-1214-46eb-afe4-54d2ae931e49": {
+  "name": "北海道佐呂間高等学校",
+  "lat": 44.0389,
+  "lng": 143.7701,
+  "airport": "MMB",
+  "airportKm": 36.1,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "d348e840-fe38-4fb9-b696-7110232592dc": {
+  "name": "北海道湧別高等学校",
+  "lat": 44.185,
+  "lng": 143.5844,
+  "airport": "MBE",
+  "airportKm": 19.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "c0d58a08-6336-4bb6-a197-755d36b2f415": {
+  "name": "北海道雄武高等学校",
+  "lat": 44.5848,
+  "lng": 142.9518,
+  "airport": "MBE",
+  "airportKm": 47.6,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "93d7766e-cbba-4c0e-a532-8dc0af7ca628": {
+  "name": "北海道大空高等学校",
+  "lat": 43.819,
+  "lng": 144.3187,
+  "airport": "MMB",
+  "airportKm": 14.2,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "f9f536f6-5136-49f3-99ca-575851e83670": {
+  "name": "北海道鵡川高等学校",
+  "lat": 42.585,
+  "lng": 141.9214,
+  "airport": "CTS",
+  "airportKm": 28.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "374a4569-d068-4765-899b-f284d95f7eac": {
+  "name": "北海道平取高等学校",
+  "lat": 42.5919,
+  "lng": 142.1312,
+  "airport": "CTS",
+  "airportKm": 41.4,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "be6585d4-5df2-48d3-8f42-7fd2e10545ff": {
+  "name": "北海道上士幌高等学校",
+  "lat": 43.2482,
+  "lng": 143.2848,
+  "airport": "OBO",
+  "airportKm": 57.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "40ff8ca4-a818-4842-8748-cb07d5f95c0c": {
+  "name": "北海道鹿追高等学校",
+  "lat": 43.1032,
+  "lng": 142.9831,
+  "airport": "OBO",
+  "airportKm": 45.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "5cd10d95-a095-45f7-bb19-186606f8c825": {
+  "name": "北海道清水高等学校",
+  "lat": 43.0148,
+  "lng": 142.8763,
+  "airport": "OBO",
+  "airportKm": 41.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "b504bd80-48dc-4354-a5b6-5ad3fff19b3a": {
+  "name": "北海道更別農業高等学校",
+  "lat": 42.6587,
+  "lng": 143.1972,
+  "airport": "OBO",
+  "airportKm": 8.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "e62cccbe-26d2-4967-8770-2f81950eade2": {
+  "name": "北海道大樹高等学校",
+  "lat": 42.4919,
+  "lng": 143.2684,
+  "airport": "OBO",
+  "airportKm": 27.2,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "d2134d94-cbd0-4a2b-bcd0-dddff0716fce": {
+  "name": "北海道池田高等学校",
+  "lat": 42.9275,
+  "lng": 143.4575,
+  "airport": "OBO",
+  "airportKm": 29.2,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "3027d4c1-ec81-4f9c-82bb-3262fc874bc3": {
+  "name": "北海道霧多布高等学校",
+  "lat": 43.0805,
+  "lng": 145.111,
+  "airport": "SHB",
+  "airportKm": 56.6,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "b3b61ed2-71d4-40c9-acda-087ab7cf2fe4": {
+  "name": "北海道標茶高等学校",
+  "lat": 43.3054,
+  "lng": 144.6061,
+  "airport": "SHB",
+  "airportKm": 41.6,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "e855ad4e-80f0-4596-80d7-cb6c485fd70a": {
+  "name": "北海道弟子屈高等学校",
+  "lat": 43.4868,
+  "lng": 144.4575,
+  "airport": "SHB",
+  "airportKm": 41.7,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "03ce7c4b-6a49-437b-be06-fd63d622fecc": {
+  "name": "北海道白糠高等学校",
+  "lat": 42.9576,
+  "lng": 144.0723,
+  "airport": "KUH",
+  "airportKm": 13.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "ad8aae4a-41f8-45fe-801c-a1b50d4dc802": {
+  "name": "北海道標津高等学校",
+  "lat": 43.6578,
+  "lng": 145.1323,
+  "airport": "SHB",
+  "airportKm": 16.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "e63c047b-71d8-46cd-bc43-0b12f7ff263a": {
+  "name": "北海道羅臼高等学校",
+  "lat": 44.0077,
+  "lng": 145.1768,
+  "airport": "SHB",
+  "airportKm": 50.9,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "177a771c-4613-42a7-8734-970d07c54cb6": {
+  "name": "青森県立鰺ヶ沢高等学校",
+  "lat": 40.7776,
+  "lng": 140.2032,
+  "airport": "AOJ",
+  "airportKm": 41.2,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "92005e0a-adff-4494-b753-cbcf8616e4e5": {
+  "name": "青森県立三戸高等学校",
+  "lat": 40.3785,
+  "lng": 141.2588,
+  "airport": "MSJ",
+  "airportKm": 37.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "621cac25-5bbb-46ed-a20b-d7270da9288a": {
+  "name": "青森県立柏木農業高等学校",
+  "lat": 40.6013,
+  "lng": 140.5708,
+  "airport": "AOJ",
+  "airportKm": 17.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "7b8202b4-ea0b-4655-a420-39afc9ddf5bb": {
+  "name": "青森県立名久井農業高等学校",
+  "lat": 40.4178,
+  "lng": 141.3739,
+  "airport": "MSJ",
+  "airportKm": 31.7,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "37eee75f-fd56-40f7-8083-b30f45215c2a": {
+  "name": "青森県立大間高等学校",
+  "lat": 41.527,
+  "lng": 140.9203,
+  "airport": "AOJ",
+  "airportKm": 90.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "f9633fc3-aefb-48fe-a00a-79bae2bfd8be": {
+  "name": "岩手県立沼宮内高等学校",
+  "lat": 40.0078,
+  "lng": 141.2256,
+  "airport": "HNA",
+  "airportKm": 64.9,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "5a347636-3eba-4b68-af12-58b202618516": {
+  "name": "岩手県立葛巻高等学校",
+  "lat": 40.0041,
+  "lng": 141.3737,
+  "airport": "HNA",
+  "airportKm": 67.2,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "68527c2c-7e1f-4af7-b730-6a7620ea468f": {
+  "name": "岩手県立平舘高等学校",
+  "lat": 39.9647,
+  "lng": 141.0794,
+  "airport": "HNA",
+  "airportKm": 59.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "fe239f2b-52ea-4390-97af-c26ad3c52c4f": {
+  "name": "岩手県立大迫高等学校",
+  "lat": 39.4722,
+  "lng": 141.286,
+  "airport": "HNA",
+  "airportKm": 13.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "65a38bda-5954-4245-9363-ebc78d3cdf1f": {
+  "name": "岩手県立黒沢尻工業高等学校",
+  "lat": 39.3292,
+  "lng": 141.1026,
+  "airport": "HNA",
+  "airportKm": 11.4,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "004e45bf-f29a-42de-9daf-3bb450fd7a58": {
+  "name": "岩手県立西和賀高等学校",
+  "lat": 39.3528,
+  "lng": 140.7611,
+  "airport": "HNA",
+  "airportKm": 33.2,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "29007094-00cd-4a66-a190-00734638b729": {
+  "name": "岩手県立住田高等学校",
+  "lat": 39.1518,
+  "lng": 141.5129,
+  "airport": "HNA",
+  "airportKm": 44.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "2f79e81e-a8f6-4f7e-9d58-af318b69aeab": {
+  "name": "岩手県立大槌高等学校",
+  "lat": 39.3863,
+  "lng": 141.8772,
+  "airport": "HNA",
+  "airportKm": 63.9,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "9e3cb1b3-a2c4-4db6-8beb-dc92b12df6ca": {
+  "name": "岩手県立宮古水産高等学校",
+  "lat": 39.6291,
+  "lng": 141.9523,
+  "airport": "HNA",
+  "airportKm": 73.6,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "fd8f60d3-f2ad-45d8-bddd-7d97431d4e54": {
+  "name": "岩手県立岩泉高等学校",
+  "lat": 39.8434,
+  "lng": 141.7944,
+  "airport": "HNA",
+  "airportKm": 72.9,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "5c774e63-ae9e-4952-8349-1fdf218a0635": {
+  "name": "岩手県立種市高等学校",
+  "lat": 40.3898,
+  "lng": 141.6795,
+  "airport": "MSJ",
+  "airportKm": 43.7,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "e5fff1de-2f54-4198-a0ef-d23583d05c51": {
+  "name": "宮城県中新田高等学校",
+  "lat": 38.5694,
+  "lng": 140.8536,
+  "airport": "GAJ",
+  "airportKm": 45.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "828549c6-94d1-479a-9cdc-4f0b34626b1e": {
+  "name": "宮城県南三陸高等学校",
+  "lat": 38.6807,
+  "lng": 141.4625,
+  "airport": "SDJ",
+  "airportKm": 76.7,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "cad59ca3-bf50-45d3-a285-90235f58793c": {
+  "name": "秋田県立男鹿海洋高等学校",
+  "lat": 39.87,
+  "lng": 139.8442,
+  "airport": "AXT",
+  "airportKm": 42.7,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "a27c4404-fc05-4397-9f7a-416d787bf74a": {
+  "name": "秋田県立鹿角高等学校",
+  "lat": 40.1795,
+  "lng": 140.7918,
+  "airport": "ONJ",
+  "airportKm": 35.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "91813387-5427-423e-98fe-51a5a9d20071": {
+  "name": "秋田県立矢島高等学校",
+  "lat": 39.233,
+  "lng": 140.1448,
+  "airport": "AXT",
+  "airportKm": 43.0,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "634846f1-d05b-40cb-b121-cdb9aebfde0f": {
+  "name": "秋田県立角館高等学校",
+  "lat": 39.6052,
+  "lng": 140.5636,
+  "airport": "AXT",
+  "airportKm": 29.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "2d397a07-5c18-4a20-bf5e-4d655b197225": {
+  "name": "山形県立加茂水産高等学校",
+  "lat": 38.7623,
+  "lng": 139.7288,
+  "airport": "SYO",
+  "airportKm": 7.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "79f046af-60c7-4418-a0d8-a09ddc7eb613": {
+  "name": "山形県立村山産業高等学校",
+  "lat": 38.499,
+  "lng": 140.393,
+  "airport": "GAJ",
+  "airportKm": 9.9,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "ccc2ba6a-d13c-4123-9334-e924698dc660": {
+  "name": "山形県立長井工業高等学校",
+  "lat": 38.1133,
+  "lng": 140.0301,
+  "airport": "GAJ",
+  "airportKm": 44.6,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "f46f6581-3512-4077-9139-e905eae9cefa": {
+  "name": "山形県立谷地高等学校",
+  "lat": 38.416,
+  "lng": 140.3078,
+  "airport": "GAJ",
+  "airportKm": 5.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "6870d623-8cc0-4e73-bd5a-aaa29c659534": {
+  "name": "山形県立新庄神室産業高等学校金山校",
+  "lat": 38.8864,
+  "lng": 140.3906,
+  "airport": "GAJ",
+  "airportKm": 52.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "c2d6329a-bf07-43ed-bee3-f83e915a0ae1": {
+  "name": "山形県立高畠高等学校",
+  "lat": 38.003,
+  "lng": 140.1652,
+  "airport": "GAJ",
+  "airportKm": 48.9,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "ae63e8cc-4a38-4a0a-add8-8e7c1303f339": {
+  "name": "山形県立小国高等学校",
+  "lat": 38.0557,
+  "lng": 139.7508,
+  "airport": "KIJ",
+  "airportKm": 57.1,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "71481df2-3112-415d-9d5f-553c0a3ecbbb": {
+  "name": "山形県立遊佐高等学校",
+  "lat": 39.0121,
+  "lng": 139.915,
+  "airport": "SYO",
+  "airportKm": 24.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "3f0450ed-c287-442c-a159-9ae9eaf30269": {
+  "name": "福島県立川俣高等学校",
+  "lat": 37.6651,
+  "lng": 140.5983,
+  "airport": "FKS",
+  "airportKm": 50.9,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "c39dabac-c3cb-41c0-9aa1-5e21f2079e9b": {
+  "name": "福島県立只見高等学校",
+  "lat": 37.3452,
+  "lng": 139.3132,
+  "airport": "KIJ",
+  "airportKm": 70.0,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "264b129c-7b0d-4934-ad7d-1e978747a340": {
+  "name": "福島県立猪苗代高等学校",
+  "lat": 37.5633,
+  "lng": 140.1112,
+  "airport": "FKS",
+  "airportKm": 46.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "ee4fe50e-bd98-4353-b782-46abb18335e4": {
+  "name": "福島県立川口高等学校",
+  "lat": 37.453,
+  "lng": 139.5307,
+  "airport": "KIJ",
+  "airportKm": 66.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "a334c662-5daf-4e91-b43e-dddbdebeb398": {
+  "name": "茨城県立大子清流高等学校",
+  "lat": 36.7659,
+  "lng": 140.3499,
+  "airport": "FKS",
+  "airportKm": 51.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "b6359839-168d-438b-92a5-bc84ad40319b": {
+  "name": "群馬県立嬬恋高等学校",
+  "lat": 36.5582,
+  "lng": 138.5438,
+  "airport": "MMJ",
+  "airportKm": 70.6,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "bf2ab3e8-de4b-4650-9836-56656cf07a64": {
+  "name": "新潟県立加茂農林高等学校",
+  "lat": 37.6606,
+  "lng": 139.0609,
+  "airport": "KIJ",
+  "airportKm": 33.0,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "2e818ded-9726-48b8-a612-18a1ef339f00": {
+  "name": "新潟県立松代高等学校",
+  "lat": 37.1338,
+  "lng": 138.6079,
+  "airport": "KIJ",
+  "airportKm": 101.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "3f437a7a-8b06-4fc9-903f-8652ba66bb7c": {
+  "name": "新潟県立村上高等学校",
+  "lat": 38.2208,
+  "lng": 139.466,
+  "airport": "KIJ",
+  "airportKm": 42.9,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "ed45e1b9-ad1e-49a8-a26e-0d39d669cbaf": {
+  "name": "新潟県立佐渡高等学校",
+  "lat": 38.0107,
+  "lng": 138.323,
+  "airport": "KIJ",
+  "airportKm": 69.5,
+  "ferry": true,
+  "planeFerry": true
+ },
+ "e9a9a840-7a0f-438a-a92b-ddfdc70e6908": {
+  "name": "新潟県立佐渡総合高等学校",
+  "lat": 37.9935,
+  "lng": 138.417,
+  "airport": "KIJ",
+  "airportKm": 61.1,
+  "ferry": true,
+  "planeFerry": true
+ },
+ "2788c1ec-f192-4e28-9fac-a3c8f5602b5d": {
+  "name": "新潟県立羽茂高等学校",
+  "lat": 37.8586,
+  "lng": 138.3516,
+  "airport": "KIJ",
+  "airportKm": 67.6,
+  "ferry": true,
+  "planeFerry": true
+ },
+ "46075558-a8ce-40a0-9faa-b874a91ae6e6": {
+  "name": "新潟県立国際フロンティア高等学校",
+  "lat": 37.1675,
+  "lng": 138.9221,
+  "airport": "KIJ",
+  "airportKm": 89.1,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "57da3152-698f-4569-87ef-c9e5cc2f1478": {
+  "name": "新潟県立中条高等学校",
+  "lat": 38.0572,
+  "lng": 139.4095,
+  "airport": "KIJ",
+  "airportKm": 28.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "eb33c044-7cea-4c76-b76e-83804ff55cb8": {
+  "name": "新潟県立阿賀黎明高等学校",
+  "lat": 37.6762,
+  "lng": 139.4501,
+  "airport": "KIJ",
+  "airportKm": 42.9,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "3084f554-af0c-4b2e-b036-c732d2a78871": {
+  "name": "富山県立氷見高等学校",
+  "lat": 36.8566,
+  "lng": 136.9805,
+  "airport": "TOY",
+  "airportKm": 29.6,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "5c311388-796f-4a23-a207-d3a83fa3e95f": {
+  "name": "富山県立南砺平高等学校",
+  "lat": 36.4106,
+  "lng": 136.9534,
+  "airport": "TOY",
+  "airportKm": 33.7,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "6bd8c54a-245c-4494-884a-f35550b480cc": {
+  "name": "石川県立能登高等学校",
+  "lat": 37.3002,
+  "lng": 137.1493,
+  "airport": "NTQ",
+  "airportKm": 16.6,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "291fe3ab-c1bc-48bb-a948-274a1f8c38db": {
+  "name": "福井県立丸岡高等学校",
+  "lat": 36.1488,
+  "lng": 136.2854,
+  "airport": "KMQ",
+  "airportKm": 29.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "ab6049a5-2ab1-41a7-b3ae-b4d42b949af6": {
+  "name": "福井県立勝山高等学校",
+  "lat": 36.0619,
+  "lng": 136.5049,
+  "airport": "KMQ",
+  "airportKm": 37.9,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "2468a9f7-8f0d-4662-bddf-d8c48d7e2bab": {
+  "name": "福井県立若狭高等学校",
+  "lat": 35.4974,
+  "lng": 135.7506,
+  "airport": "ITM",
+  "airportKm": 84.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "9b018826-c228-4629-93b3-ea71e6691597": {
+  "name": "長野県小諸義塾高等学校音楽科",
+  "lat": 36.3299,
+  "lng": 138.4365,
+  "airport": "MMJ",
+  "airportKm": 49.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "97e19fb0-34d0-4b34-ac4f-bb5cb32010cc": {
+  "name": "長野県飯山高等学校",
+  "lat": 36.8524,
+  "lng": 138.3564,
+  "airport": "MMJ",
+  "airportKm": 85.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "2062935e-8794-4b6b-b1e5-42a2987b66b0": {
+  "name": "長野県木曽青峰高等学校",
+  "lat": 35.8249,
+  "lng": 137.7169,
+  "airport": "MMJ",
+  "airportKm": 42.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "aca587cc-3555-4139-998c-9f2fb3eeb309": {
+  "name": "長野県白馬高等学校",
+  "lat": 36.7084,
+  "lng": 137.8386,
+  "airport": "TOY",
+  "airportKm": 58.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "644a8ace-dd74-418d-a106-8d683737e854": {
+  "name": "静岡県立川根高等学校",
+  "lat": 35.0683,
+  "lng": 138.1213,
+  "airport": "FSZ",
+  "airportKm": 31.0,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "92585e69-5bfb-4f19-8d43-11e49266a34e": {
+  "name": "静岡県立伊豆総合高等学校土肥分校",
+  "lat": 34.9024,
+  "lng": 138.815,
+  "airport": "FSZ",
+  "airportKm": 58.2,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "d677d146-178c-4898-bc63-f798c7adc995": {
+  "name": "静岡県立浜松湖北高等学校佐久間分校",
+  "lat": 35.0842,
+  "lng": 137.7962,
+  "airport": "FSZ",
+  "airportKm": 48.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "064c9e43-48b3-4424-9550-10b916bbf329": {
+  "name": "滋賀県立伊香高等学校",
+  "lat": 35.5125,
+  "lng": 136.2305,
+  "airport": "NGO",
+  "airportKm": 89.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "ba7fc403-cdeb-4208-abc5-8d087cb6b1ee": {
+  "name": "滋賀県立信楽高等学校",
+  "lat": 34.881,
+  "lng": 136.0472,
+  "airport": "ITM",
+  "airportKm": 56.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "41e32a78-a4eb-4850-a86e-a05b7ef92628": {
+  "name": "京都府立須知高等学校",
+  "lat": 35.1758,
+  "lng": 135.4128,
+  "airport": "ITM",
+  "airportKm": 44.0,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "0bbb139b-42ea-4e25-b7c1-db4581249dc6": {
+  "name": "五條市立西吉野農業高等学校",
+  "lat": 34.3044,
+  "lng": 135.7206,
+  "airport": "KIX",
+  "airportKm": 45.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "5f21a0f9-b1b3-4c57-bc95-cf927775f5d7": {
+  "name": "和歌山県立串本古座高等学校",
+  "lat": 33.4704,
+  "lng": 135.78,
+  "airport": "SHM",
+  "airportKm": 44.1,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "31be9d30-1842-472c-b229-9c9bc5535995": {
+  "name": "鳥取県立岩美高等学校",
+  "lat": 35.576,
+  "lng": 134.3321,
+  "airport": "TTJ",
+  "airportKm": 16.0,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "ca373859-0fa5-4c29-a3b2-53aff5358429": {
+  "name": "鳥取県立智頭農林高等学校",
+  "lat": 35.265,
+  "lng": 134.2267,
+  "airport": "TTJ",
+  "airportKm": 30.0,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "d2ca82c2-7c34-4df8-9781-373f35047822": {
+  "name": "鳥取県立青谷高等学校",
+  "lat": 35.4521,
+  "lng": 133.9928,
+  "airport": "TTJ",
+  "airportKm": 17.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "b7f246c8-cfd7-4ac5-b68c-9fbfecadca29": {
+  "name": "鳥取県立倉吉農業高等学校",
+  "lat": 35.4301,
+  "lng": 133.8256,
+  "airport": "TTJ",
+  "airportKm": 32.7,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "9956c8e2-172f-4a28-b264-f689bb05555f": {
+  "name": "鳥取県立境高等学校",
+  "lat": 35.5396,
+  "lng": 133.2316,
+  "airport": "YGJ",
+  "airportKm": 5.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "be9d8d58-c3b0-424c-9da0-b6c64634c8f5": {
+  "name": "鳥取県立日野高等学校",
+  "lat": 35.2408,
+  "lng": 133.4428,
+  "airport": "YGJ",
+  "airportKm": 33.7,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "10bd1b7b-708c-4d9c-9132-838d5efedd8d": {
+  "name": "鳥取県立境港総合技術高等学校",
+  "lat": 35.5396,
+  "lng": 133.2316,
+  "airport": "YGJ",
+  "airportKm": 5.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "716f88c7-5ca4-44ce-b540-b4f01f4208f1": {
+  "name": "三重県立昴学園高等学校",
+  "lat": 34.3513,
+  "lng": 136.3273,
+  "airport": "NGO",
+  "airportKm": 71.4,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "d00de977-4536-4ab0-a256-ac5c35f77653": {
+  "name": "島根県立横田高等学校",
+  "lat": 35.1639,
+  "lng": 133.102,
+  "airport": "IZO",
+  "airportKm": 33.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "631b309d-5676-4a67-a8b8-e96209bc6848": {
+  "name": "島根県立飯南高等学校",
+  "lat": 35.0345,
+  "lng": 132.7575,
+  "airport": "IZO",
+  "airportKm": 43.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "311b9ba4-6ee6-4877-be5c-0129b9c2830b": {
+  "name": "島根県立島根中央高等学校",
+  "lat": 34.979,
+  "lng": 132.5252,
+  "airport": "IZO",
+  "airportKm": 58.6,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "ab2f7f5a-b13c-42de-b368-ded7f2d93b4e": {
+  "name": "島根県立矢上高等学校",
+  "lat": 34.8861,
+  "lng": 132.4311,
+  "airport": "IWJ",
+  "airportKm": 63.0,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "4c2a9af6-d343-4f7d-b56e-2b4a209b1ff7": {
+  "name": "島根県立津和野高等学校",
+  "lat": 34.4603,
+  "lng": 131.7659,
+  "airport": "IWJ",
+  "airportKm": 24.1,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "3f9b04ec-8efc-45a4-ad74-d870fa442811": {
+  "name": "島根県立吉賀高等学校",
+  "lat": 34.4031,
+  "lng": 131.9194,
+  "airport": "IWJ",
+  "airportKm": 32.6,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "8da44b4a-16a0-49db-9924-3d2f3a6339f1": {
+  "name": "島根県立隠岐島前高等学校",
+  "lat": 36.099,
+  "lng": 133.0761,
+  "airport": "YGJ",
+  "airportKm": 69.0,
+  "ferry": true,
+  "planeFerry": true
+ },
+ "c4876f4c-9d00-4683-bf22-2e8b5a3d792d": {
+  "name": "島根県立隠岐高等学校",
+  "lat": 36.2197,
+  "lng": 133.3116,
+  "airport": "OKI",
+  "airportKm": 4.7,
+  "ferry": true,
+  "planeFerry": false
+ },
+ "1a5011b8-457c-451c-8f6d-300f7d42de39": {
+  "name": "島根県立隠岐水産高等学校",
+  "lat": 36.2211,
+  "lng": 133.339,
+  "airport": "OKI",
+  "airportKm": 4.9,
+  "ferry": true,
+  "planeFerry": false
+ },
+ "5245fbe1-eb89-4171-9d4e-72a496f6f7b3": {
+  "name": "岡山県立和気閑谷高等学校",
+  "lat": 34.8021,
+  "lng": 134.1594,
+  "airport": "OKJ",
+  "airportKm": 28.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "341ea75a-91df-43d6-a987-2ad03b5c4e4a": {
+  "name": "岡山県立勝山高等学校蒜山校地",
+  "lat": 35.3028,
+  "lng": 133.7048,
+  "airport": "YGJ",
+  "airportKm": 47.4,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "2787fceb-87d0-46f5-a55a-2818ef7cdf0d": {
+  "name": "岡山県立高梁城南高等学校",
+  "lat": 34.786,
+  "lng": 133.6159,
+  "airport": "OKJ",
+  "airportKm": 22.1,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "8fae2116-e1b5-4592-b69d-41f814097fa4": {
+  "name": "広島県立音戸高等学校",
+  "lat": 34.1927,
+  "lng": 132.5322,
+  "airport": "IWK",
+  "airportKm": 26.7,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "9a275d77-7e19-4b6e-841a-ade4580e10db": {
+  "name": "広島県立加計高等学校",
+  "lat": 34.61,
+  "lng": 132.322,
+  "airport": "IWJ",
+  "airportKm": 49.2,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "afba5b9a-7f8c-4ed1-8e20-c2ecfea57523": {
+  "name": "広島県芸北分校",
+  "lat": 34.7312,
+  "lng": 132.2865,
+  "airport": "IWJ",
+  "airportKm": 45.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "f0422847-d90a-4631-8cd4-ebdad8ce4551": {
+  "name": "広島県立西城紫水高等学校",
+  "lat": 34.9337,
+  "lng": 133.116,
+  "airport": "IZO",
+  "airportKm": 57.2,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "e2f1367c-282f-4995-9021-c449d0f2854d": {
+  "name": "広島県立大崎海星高等学校",
+  "lat": 34.2457,
+  "lng": 132.8838,
+  "airport": "HIJ",
+  "airportKm": 21.4,
+  "ferry": true,
+  "planeFerry": true
+ },
+ "ad2cbc9c-f117-4e48-b0c4-ec0b6d2dde99": {
+  "name": "山口県立大学附属周防大島高等学校",
+  "lat": 33.893,
+  "lng": 132.2638,
+  "airport": "IWK",
+  "airportKm": 28.2,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "0bb80524-407c-4658-8af4-5a27428b6c4a": {
+  "name": "徳島県立池田高等学校",
+  "lat": 34.0306,
+  "lng": 133.8,
+  "airport": "TAK",
+  "airportKm": 28.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "1727dd14-d265-46d7-a024-cfe422a132c5": {
+  "name": "徳島県立城西高等学校神山校",
+  "lat": 33.9609,
+  "lng": 134.3571,
+  "airport": "TKS",
+  "airportKm": 30.0,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "4e60749f-b249-45bb-a7c3-4bef168c66c8": {
+  "name": "徳島県立那賀高等学校",
+  "lat": 33.8523,
+  "lng": 134.4899,
+  "airport": "TKS",
+  "airportKm": 33.0,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "79f1b65c-d937-4708-bfdf-f92a5ddee6cd": {
+  "name": "徳島県立海部高等学校",
+  "lat": 33.602,
+  "lng": 134.352,
+  "airport": "KCZ",
+  "airportKm": 63.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "f9099907-735a-4aed-aab3-ac82cae16ae5": {
+  "name": "香川県立小豆島中央高等学校",
+  "lat": 34.486,
+  "lng": 134.2118,
+  "airport": "TAK",
+  "airportKm": 35.1,
+  "ferry": true,
+  "planeFerry": true
+ },
+ "7afd21d1-e9fe-4f11-b9d3-1410c37b7d31": {
+  "name": "愛媛県立今治工業高等学校",
+  "lat": 34.0513,
+  "lng": 132.9947,
+  "airport": "MYJ",
+  "airportKm": 36.9,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "9e960338-cb72-41ab-99df-84c5af8e091b": {
+  "name": "愛媛県立宇和島南高等学校",
+  "lat": 33.2163,
+  "lng": 132.5591,
+  "airport": "MYJ",
+  "airportKm": 69.1,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "91ccd17b-a49a-4f7d-945e-e7d03fe3a302": {
+  "name": "愛媛県立長浜高等学校",
+  "lat": 33.6144,
+  "lng": 132.4791,
+  "airport": "MYJ",
+  "airportKm": 31.2,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "d3a138de-3994-4b16-9d6d-ac7aac729738": {
+  "name": "愛媛県立野村高等学校",
+  "lat": 33.3826,
+  "lng": 132.6704,
+  "airport": "MYJ",
+  "airportKm": 49.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "7153c76f-13cd-48a4-9ae1-d377bbcd7229": {
+  "name": "愛媛県立弓削高等学校",
+  "lat": 34.2638,
+  "lng": 133.2041,
+  "airport": "HIJ",
+  "airportKm": 32.4,
+  "ferry": true,
+  "planeFerry": true
+ },
+ "9c888952-d12f-41cc-b44b-b3e2341d0e5f": {
+  "name": "愛媛県立上浮穴高等学校",
+  "lat": 33.6517,
+  "lng": 132.9057,
+  "airport": "MYJ",
+  "airportKm": 27.2,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "fd7d7c1c-c804-4500-b3c3-500dc22d453b": {
+  "name": "愛媛県立松山南高等学校砥部分校",
+  "lat": 33.7357,
+  "lng": 132.8031,
+  "airport": "MYJ",
+  "airportKm": 13.9,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "5676df65-0041-4880-b133-a66b3db9e751": {
+  "name": "愛媛県立内子高等学校小田分校",
+  "lat": 33.5628,
+  "lng": 132.7941,
+  "airport": "MYJ",
+  "airportKm": 30.6,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "0af2bb79-5a30-42db-8549-4c5d24ea9f54": {
+  "name": "愛媛県立三崎高等学校",
+  "lat": 33.3881,
+  "lng": 132.1312,
+  "airport": "MYJ",
+  "airportKm": 71.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "dfc0e840-37f3-4f71-86e7-ecf3f744d2d1": {
+  "name": "愛媛県立北宇和高等学校",
+  "lat": 33.2565,
+  "lng": 132.6727,
+  "airport": "MYJ",
+  "airportKm": 63.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "d28f2094-6728-458b-98a8-88b2933c0eb3": {
+  "name": "愛媛県立南宇和高等学校",
+  "lat": 32.9619,
+  "lng": 132.5627,
+  "airport": "MYJ",
+  "airportKm": 97.0,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "7c55b273-8c6b-4e5c-9942-84a1b0d676c7": {
+  "name": "高知県立室戸高等学校",
+  "lat": 33.322,
+  "lng": 134.1622,
+  "airport": "KCZ",
+  "airportKm": 52.0,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "a498fa71-acda-4bd3-a2eb-e1bad5a54c7d": {
+  "name": "高知県立嶺北高等学校",
+  "lat": 33.7597,
+  "lng": 133.5867,
+  "airport": "KCZ",
+  "airportKm": 25.1,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "e65545a1-d727-4b8d-b476-eb3c9cb4ab0e": {
+  "name": "高知県立梼原高等学校",
+  "lat": 33.3947,
+  "lng": 132.9311,
+  "airport": "MYJ",
+  "airportKm": 52.6,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "49511a6f-b26b-4d24-afa1-89d74d2afbe8": {
+  "name": "高知県立窪川高等学校",
+  "lat": 33.2152,
+  "lng": 133.1347,
+  "airport": "KCZ",
+  "airportKm": 61.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "a6267174-a356-4210-b28a-855cb6ee5dde": {
+  "name": "高知県立四万十高等学校",
+  "lat": 33.1746,
+  "lng": 132.9603,
+  "airport": "MYJ",
+  "airportKm": 76.4,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "797ea927-c666-4bc5-ba0f-63e88ad3bd84": {
+  "name": "高知県立中村高等学校西土佐分校",
+  "lat": 33.1365,
+  "lng": 132.79,
+  "airport": "MYJ",
+  "airportKm": 77.2,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "4511da71-31bd-4481-b815-a930a844726e": {
+  "name": "高知県立清水高等学校",
+  "lat": 32.7851,
+  "lng": 132.9581,
+  "airport": "KCZ",
+  "airportKm": 107.4,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "dee7bf24-ee1c-441b-bc90-c49579ad797e": {
+  "name": "高知県立高知農業高等学校",
+  "lat": 33.5833,
+  "lng": 133.6524,
+  "airport": "KCZ",
+  "airportKm": 4.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "791f3b44-fa23-4378-bcc0-82b4aa30b885": {
+  "name": "高知県立幡多農業高等学校",
+  "lat": 32.9921,
+  "lng": 132.9635,
+  "airport": "KCZ",
+  "airportKm": 90.0,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "c1a98802-5e84-4a85-9177-982787a13c29": {
+  "name": "高知県立高知海洋高等学校",
+  "lat": 33.4408,
+  "lng": 133.4351,
+  "airport": "KCZ",
+  "airportKm": 24.7,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "84e160c1-131a-4ed7-81f2-6f4cd519ec28": {
+  "name": "佐賀県立牛津高等学校",
+  "lat": 33.2647,
+  "lng": 130.2077,
+  "airport": "HSG",
+  "airportKm": 15.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "d29c030c-0b9f-4eb5-b69c-05dc6f57a9b0": {
+  "name": "佐賀県立有田工業高等学校",
+  "lat": 33.1779,
+  "lng": 129.8847,
+  "airport": "NGS",
+  "airportKm": 29.2,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "d8e95eb2-cdc1-4e60-9aa7-921e01990425": {
+  "name": "佐賀県立唐津青翔高等学校",
+  "lat": 33.4668,
+  "lng": 129.857,
+  "airport": "HSG",
+  "airportKm": 54.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "1bb37cad-f138-44f1-bd42-c8205b483b48": {
+  "name": "長崎県立北松西高等学校",
+  "lat": 33.1923,
+  "lng": 129.0532,
+  "airport": "NGS",
+  "airportKm": 85.9,
+  "ferry": true,
+  "planeFerry": true
+ },
+ "4ac6c2df-0da0-41e5-8545-2d3e57e10ad8": {
+  "name": "熊本県立球磨工業高等学校",
+  "lat": 32.2187,
+  "lng": 130.7534,
+  "airport": "KOJ",
+  "airportKm": 46.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "f30a343c-7de2-4e4e-8193-f7982e7a41a8": {
+  "name": "熊本県立小国高等学校",
+  "lat": 33.1239,
+  "lng": 131.065,
+  "airport": "KMJ",
+  "airportKm": 37.4,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "27d1d951-3042-4b16-b1ba-b08a8387fb90": {
+  "name": "熊本県立芦北高等学校",
+  "lat": 32.3171,
+  "lng": 130.5127,
+  "airport": "AXJ",
+  "airportKm": 38.0,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "7369a4f3-7db0-4075-bae0-192fea613a6a": {
+  "name": "熊本県立阿蘇中央高等学校",
+  "lat": 32.9217,
+  "lng": 131.114,
+  "airport": "KMJ",
+  "airportKm": 25.9,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "6bb20e4e-0e1c-4b38-b307-02879c5e543d": {
+  "name": "熊本県立上天草高等学校",
+  "lat": 32.5662,
+  "lng": 130.4291,
+  "airport": "AXJ",
+  "airportKm": 27.0,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "0dd10dce-c0fa-4ae8-ada0-c5cf4e6aa1b0": {
+  "name": "熊本県立矢部高等学校",
+  "lat": 32.6989,
+  "lng": 130.9904,
+  "airport": "KMJ",
+  "airportKm": 19.9,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "c548c0ef-6122-46c3-83e6-72340f12ec66": {
+  "name": "熊本県立天草拓心高等学校マリン校舎",
+  "lat": 32.5223,
+  "lng": 130.0294,
+  "airport": "AXJ",
+  "airportKm": 12.9,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "b8acb886-d8d7-4d73-a383-ad8f479c5e72": {
+  "name": "熊本県立南稜高等学校",
+  "lat": 32.2239,
+  "lng": 130.9015,
+  "airport": "KOJ",
+  "airportKm": 49.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "5e8b94e6-9e5e-4bb2-bb23-7b50bab27992": {
+  "name": "大分県立芸術緑丘高等学校",
+  "lat": 33.2221,
+  "lng": 131.6155,
+  "airport": "OIT",
+  "airportKm": 30.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "e787db17-23b9-43be-8763-41e772d604f7": {
+  "name": "大分県立日田林工高等学校",
+  "lat": 33.3298,
+  "lng": 130.9292,
+  "airport": "FUK",
+  "airportKm": 52.7,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "90f25585-35fe-489d-b32c-f5b3ec21817a": {
+  "name": "大分県立安心院高等学校",
+  "lat": 33.4356,
+  "lng": 131.3494,
+  "airport": "OIT",
+  "airportKm": 36.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "fd7f1c72-9166-4572-b9d2-00fe39b3bbde": {
+  "name": "大分県立中津南高等学校耶馬溪校",
+  "lat": 33.4636,
+  "lng": 131.1429,
+  "airport": "KKJ",
+  "airportKm": 43.7,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "91f6633d-f023-47a3-9141-1fb503f1c649": {
+  "name": "大分県立国東高等学校",
+  "lat": 33.5586,
+  "lng": 131.7351,
+  "airport": "OIT",
+  "airportKm": 8.8,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "e863d4e1-cc69-4303-8cd2-69334247345c": {
+  "name": "大分県立久住高原農業高等学校",
+  "lat": 33.0408,
+  "lng": 131.3297,
+  "airport": "KMJ",
+  "airportKm": 49.7,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "a1c9b355-e160-4104-8368-367033a19c1c": {
+  "name": "宮崎県立飯野高等学校",
+  "lat": 32.0456,
+  "lng": 130.8111,
+  "airport": "KOJ",
+  "airportKm": 28.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "6acde5b4-c5db-400c-8b1c-7a3746c7c457": {
+  "name": "宮崎県立高千穂高等学校",
+  "lat": 32.7159,
+  "lng": 131.3201,
+  "airport": "KMJ",
+  "airportKm": 45.5,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "7f4fdc37-386e-4ca3-89df-56cb53ac5dff": {
+  "name": "鹿児島県立川辺高等学校",
+  "lat": 31.3982,
+  "lng": 130.3812,
+  "airport": "KOJ",
+  "airportKm": 55.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "a63de9c5-9714-49fd-be37-dac6049d9814": {
+  "name": "鹿児島県立野田女子高等学校",
+  "lat": 32.0694,
+  "lng": 130.2649,
+  "airport": "AXJ",
+  "airportKm": 47.0,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "1283361d-7d1c-41f8-8e02-f3dfee12ba46": {
+  "name": "鹿児島県立出水工業高等学校",
+  "lat": 32.0705,
+  "lng": 130.3444,
+  "airport": "KOJ",
+  "airportKm": 46.2,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "c6536d07-08d9-410c-bcf8-7d7241fc7081": {
+  "name": "鹿児島県立大口高等学校",
+  "lat": 32.0606,
+  "lng": 130.613,
+  "airport": "KOJ",
+  "airportKm": 30.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "239ee279-8257-479c-8cfa-eba6135d6c77": {
+  "name": "鹿児島県立伊佐農林高等学校",
+  "lat": 32.0465,
+  "lng": 130.6208,
+  "airport": "KOJ",
+  "airportKm": 28.6,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "c48eaa16-e0f4-439e-a084-c32274d4f594": {
+  "name": "鹿児島県立志布志高等学校",
+  "lat": 31.46,
+  "lng": 131.0763,
+  "airport": "KOJ",
+  "airportKm": 51.0,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "99a7d5b2-659d-4003-bca3-02910cae9d51": {
+  "name": "鹿児島県立南大隅高等学校",
+  "lat": 31.2212,
+  "lng": 130.8067,
+  "airport": "KOJ",
+  "airportKm": 65.3,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "abd04578-409b-43b9-aef8-858b0e24ca82": {
+  "name": "鹿児島県立屋久島高等学校",
+  "lat": 30.4255,
+  "lng": 130.5656,
+  "airport": "KUM",
+  "airportKm": 10.0,
+  "ferry": true,
+  "planeFerry": false
+ },
+ "7294a965-9876-4c44-bc8e-ab1fb4b79c57": {
+  "name": "鹿児島県立古仁屋高等学校",
+  "lat": 28.1522,
+  "lng": 129.3181,
+  "airport": "ASJ",
+  "airportKm": 49.5,
+  "ferry": true,
+  "planeFerry": false
+ },
+ "b4f62fad-e799-428f-b0c0-acfb013a6ef5": {
+  "name": "鹿児島県立喜界高等学校",
+  "lat": 28.3211,
+  "lng": 129.9466,
+  "airport": "KKX",
+  "airportKm": 1.8,
+  "ferry": true,
+  "planeFerry": false
+ },
+ "10491008-2fa8-42b0-92ad-2c988b866957": {
+  "name": "鹿児島県立沖永良部高等学校",
+  "lat": 27.3612,
+  "lng": 128.6103,
+  "airport": "OKE",
+  "airportKm": 12.2,
+  "ferry": true,
+  "planeFerry": false
+ },
+ "0fcab118-0d47-41cb-ae3f-9694021dc323": {
+  "name": "鹿児島県立種子島高等学校",
+  "lat": 30.731,
+  "lng": 131.0207,
+  "airport": "TNE",
+  "airportKm": 14.3,
+  "ferry": true,
+  "planeFerry": false
+ },
+ "6330b3a8-32e9-473e-9535-0ae2314b69a6": {
+  "name": "鹿児島県立徳之島高等学校",
+  "lat": 27.7413,
+  "lng": 128.9918,
+  "airport": "TKN",
+  "airportKm": 15.2,
+  "ferry": true,
+  "planeFerry": false
+ },
+ "868d5fd3-4e86-4c6c-a866-f534d077301f": {
+  "name": "鹿児島県立薩摩中央高等学校",
+  "lat": 31.9121,
+  "lng": 130.4388,
+  "airport": "KOJ",
+  "airportKm": 29.1,
+  "ferry": false,
+  "planeFerry": false
+ },
+ "b08bc4d8-84eb-415b-a79e-1c6b7bac6d15": {
+  "name": "沖縄県立久米島高等学校",
+  "lat": 26.3474,
+  "lng": 126.7697,
+  "airport": "UEO",
+  "airportKm": 5.8,
+  "ferry": true,
+  "planeFerry": false
+ }
+}

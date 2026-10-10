@@ -24,7 +24,7 @@
     <h2 id="notice-title">ご利用にあたって</h2>
     <ul>
       <li>本シミュレーターで算出される金額は、公表資料をもとにした<strong>概算値</strong>です。実際の金額とは異なる場合がありますので、詳細は必ず各学校・自治体へご確認ください。</li>
-      <li>交通費・帰省費は、都道府県庁所在地間の直線距離とJR運賃の目安表から算出した概算です。(新幹線・飛行機を使う場合は変動します)</li>
+      <li>交通費・帰省費は概算です。</li>
       <li>一部の費用については地方自治体から補助が出る場合もあります。詳細は各学校へご確認ください。</li>
     </ul>
   </section>
@@ -71,20 +71,23 @@
         <p class="field-error" id="c-school-error" hidden></p>
       </fieldset>
 
-      <fieldset class="field">
-        <legend class="field-label">宿泊日数</legend>
-        <div class="segmented" role="radiogroup">
-          <label class="segment"><input type="radio" name="c-nights" id="c-nights-0" value="0" checked><span>日帰り</span></label>
-          <label class="segment"><input type="radio" name="c-nights" id="c-nights-1" value="1"><span>1泊</span></label>
-          <label class="segment"><input type="radio" name="c-nights" id="c-nights-2" value="2"><span>2泊</span></label>
-        </div>
+      <fieldset class="field" id="c-transport-field" hidden>
+        <legend class="field-label">交通手段・宿泊日数 <span class="field-hint">学校ごとに選べます</span></legend>
+        <div class="transport-list" id="c-transport-list"></div>
         <ul class="small-notes">
+          <li>宿泊日数は1回の訪問あたりの日数です。現地訪問(オープンスクールなど)と受検の2回、それぞれでこの日数を泊まる想定で計算します。</li>
           <li>現在の居住地と志望校の距離が離れている場合は、宿泊日数が増えることを想定してください。</li>
           <li>地域みらい留学校のある地域は公共交通機関の本数が少ない場合がありますので、想定より移動時間がかかることがあります。</li>
         </ul>
+        <div class="field airport-field" id="c-airport-field" hidden>
+          <label class="field-label" for="c-airport">お住まいの地域の最寄り空港</label>
+          <select id="c-airport" class="select"></select>
+          <p class="field-hint-block">行き先の学校の最寄り空港は、自動で設定されます。</p>
+        </div>
       </fieldset>
 
       <button type="submit" class="cta">費用を計算する</button>
+      <p class="privacy-note">計算した条件(お住まいの都道府県・選んだ学校など)は、個人が特定されない形で記録し、サービスの改善に利用します。</p>
     </form>
 
     <div id="result-consider" class="result" hidden tabindex="-1"></div>
@@ -117,6 +120,16 @@
         <p class="field-error" id="a-school-error" hidden></p>
       </fieldset>
 
+      <fieldset class="field" id="a-transport-field" hidden>
+        <legend class="field-label">帰省の交通手段</legend>
+        <div class="transport-list" id="a-transport-list"></div>
+        <div class="field airport-field" id="a-airport-field" hidden>
+          <label class="field-label" for="a-airport">お住まいの地域の最寄り空港</label>
+          <select id="a-airport" class="select"></select>
+          <p class="field-hint-block">学校の最寄り空港は、自動で設定されます。</p>
+        </div>
+      </fieldset>
+
       <fieldset class="field">
         <legend class="field-label">帰省頻度 <span class="field-hint">帰省する時期を選んでください(1〜4回)</span></legend>
         <div class="toggles" id="a-return">
@@ -129,6 +142,7 @@
       </fieldset>
 
       <button type="submit" class="cta">費用を計算する</button>
+      <p class="privacy-note">計算した条件(お住まいの都道府県・選んだ学校など)は、個人が特定されない形で記録し、サービスの改善に利用します。</p>
     </form>
 
     <div id="result-after" class="result" hidden tabindex="-1"></div>
@@ -142,6 +156,7 @@
   </div>
 </footer>
 
+<script src="config.js"></script>
 <script src="app.js"></script>
 <!-- BODY_END -->
 </body>

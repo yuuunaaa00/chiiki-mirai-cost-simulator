@@ -375,3 +375,39 @@ main.wrap { padding-block: 20px 40px; display: grid; gap: 28px; }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; }
 }
+
+/* ---------- 交通手段(学校ごと) ---------- */
+.transport-list { display: grid; gap: 10px; }
+.transport-row {
+  display: grid;
+  gap: 6px;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--soft);
+  min-width: 0;
+}
+.transport-school { margin: 0; font-weight: 700; font-size: 0.9rem; line-height: 1.5; }
+.transport-note { margin: 0; font-size: 0.78rem; line-height: 1.6; color: var(--ink-sub); }
+.segmented.is-compact span { min-width: 72px; padding: 6px 12px; font-size: 0.88rem; }
+.segment.is-unavailable { cursor: not-allowed; }
+.segment.is-unavailable span { color: #a3abb0; border-style: dashed; background: var(--paper); }
+.airport-field { margin-top: 6px; }
+.field-hint-block { margin: 0; font-size: 0.78rem; color: var(--ink-sub); }
+
+/* ---------- 結果: 学校ごとの注記・小計一覧 ---------- */
+.school-note { margin: 0; font-size: 0.78rem; color: var(--ink-sub); }
+.row .row-sub strong { color: var(--ink); }
+.info-box.is-notes strong { color: var(--ink); }
+.summary-list {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 12px 18px;
+  display: grid;
+  gap: 4px;
+}
+.summary-list h4 { margin: 0; font-size: 0.92rem; }
+.summary-list .row dt { font-weight: 400; }
+.privacy-note { margin: -10px 0 0; font-size: 0.74rem; color: var(--ink-sub); text-align: center; }
+.transport-choice { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; }
+.choice-label { font-size: 0.78rem; font-weight: 700; color: var(--ink-sub); min-width: 4.5em; }
